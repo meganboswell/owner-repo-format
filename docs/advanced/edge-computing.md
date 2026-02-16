@@ -16,7 +16,7 @@ Deploy AOSP at the edge for IoT devices, industrial automation, edge AI, and dis
 
 ### Minimal AOSP Configuration
 
-```bash
+```makefile
 # device/custom/edge/BoardConfig.mk
 TARGET_ARCH := arm64
 TARGET_ARCH_VARIANT := armv8-a
