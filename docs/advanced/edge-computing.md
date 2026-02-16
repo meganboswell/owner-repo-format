@@ -619,7 +619,7 @@ graph TB
 
 ### Power Management
 
-```cpp
+```java
 // frameworks/base/services/core/java/com/android/server/power/EdgePowerManager.java
 public class EdgePowerManager {
     
