@@ -8,7 +8,7 @@ Leverage cutting-edge distributed build systems like Bazel, Buck2, and remote ex
 
 1. [Bazel for AOSP](#bazel-for-aosp)
 2. [Buck2 Integration](#buck2-integration)
-3. [Remote Build Execution](#remote-build-execution)
+3. [Remote Build Execution](#remote-build-execution-rbe)
 4. [Build Performance Optimization](#build-performance-optimization)
 5. [Hybrid Build Strategies](#hybrid-build-strategies)
 
